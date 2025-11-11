@@ -1,3 +1,4 @@
+74255a4 Complete Task 2.1
 83270c8 complete refactoring by removing play variable
 34908e2 update readme checklist
 40ace30 complete Task 1.2
